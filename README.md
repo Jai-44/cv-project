@@ -4,7 +4,7 @@
 
 <h2>🚀 Demo</h2>
 
-[https://rmathr.github.io/cv-project/](https://rmathr.github.io/cv-project/)
+
 
 <h2>Project Screenshots:</h2>
 
